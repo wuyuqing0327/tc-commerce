@@ -1,1 +1,1 @@
-# tc-commerce
+# kaggle competition for ecommerce
